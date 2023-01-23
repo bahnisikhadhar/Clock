@@ -57,66 +57,52 @@ margin-left: 15%;
     content: counter(labelCounter) "";
   }
   .clock ol li:nth-child(1) {
-    /* right: 55px;
-    top: 20px; */
     right: 35px;
     top: 20px;
   }
   .clock ol li:nth-child(2) {
-    /* right: 25px;
-    top: 50px; */
-    right: 15px;
-    top: 40px;
+    right: 12px;
+    top: 45px;
   }
   .clock ol li:nth-child(3) {
     right: 10px;
-    top: 75px;
+    top: 80px;
   }
   .clock ol li:nth-child(4) {
-    right: 15px;
-    top: 110px;
+    right: 12px;
+    top: 116px;
   }
   .clock ol li:nth-child(5) {
     right: 35px;
-    top: 140px;
-  }
-  .clock ol li:nth-child(6) {
-    right: 75px;
     top: 150px;
   }
+  .clock ol li:nth-child(6) {
+    right: 76px;
+    top: 160px;
+  }
   .clock ol li:nth-child(7) {
-    right: 125px;
-    top: 140px;
+    right: 115px;
+    top: 150px;
   }
   .clock ol li:nth-child(8) {
-    /* right: 155px;
-    top: 125px; */
-    right: 135px;
-    top: 110px;
+    right: 142px;
+    top: 116px;
   }
   .clock ol li:nth-child(9) {
-    /* right: 165px;
-    top: 85px; */
-    right: 135px;
-    top: 75px;
+    right: 144px;
+    top: 80px;
   }
   .clock ol li:nth-child(10) {
-    /* right: 190px;
-    top: 50px; */
-    right: 130px;
-    top: 40px;
+    right: 133px;
+    top: 45px;
   }
   .clock ol li:nth-child(11) {
-    /* right: 120px;
-    top: 20px; */
-    right: 110px;
-    top: 20px;
+    right: 115px;
+    top: 15px;
   }
   .clock ol li:nth-child(12) {
-    /* right: 85px;
-    top: 10px; */
-    right: 75px;
-    top: 10px;
+    right: 70px;
+    top: 4px;
   }
   
   #hour {

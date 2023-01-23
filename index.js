@@ -35,8 +35,9 @@ window.requestAnimFrame = (function () {
       m = h * 60, //minutes
       s = m * 60; //seconds
     //rotate the hands accordingly
-    sec.style.webkitTransform = "rotate(" + s * 6 + "deg)";
-    hour.style.webkitTransform = "rotate(" + (h * 30 + h / 2) + "deg)";
+    sec.style.webkitTransform = "rotate(" + s * 4 + "deg)";
+    // hour.style.webkitTransform = "rotate(" + (h * 30 + h / 2) + "deg)";
+    hour.style.webkitTransform = "rotate(" + (h * 30 ) + "deg)";
     min.style.webkitTransform = "rotate(" + m * 6 + "deg)";
   }
 })();
